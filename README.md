@@ -1,6 +1,6 @@
 # Project Lyrics
 
-# Live Link:
+Live Link:
 
 <a href="https://asym-lyriks-app.netlify.app/" target="_blank">https://asym-lyriks-app.netlify.app/</a>
 
